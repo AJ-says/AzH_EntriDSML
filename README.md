@@ -1,6 +1,6 @@
-# AzH_EntriDSML
+# Python_AzH_EntriDSML
 
-This repository contains my assignment submissions for Entri Elevates' DSML course.
+This repository contains my Python assignment submissions for Entri Elevates' DSML course.
 
 Each task is organized into folders based on the subject, module, or due date. 
 
